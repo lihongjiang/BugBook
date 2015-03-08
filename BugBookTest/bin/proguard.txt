@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:18
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.bslee2.logtoolapk.BugApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.bslee2.logtoolapk.MainActivity { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:6
+-keepclassmembers class * { *** btn1(...); }
+
+# onClick res/layout/activity_main.xml #generated:12
+-keepclassmembers class * { *** btn2(...); }
+

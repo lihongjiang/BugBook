@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bug Book</string>
+    <string name="user_nickname">用户昵称</string>
+    <string name="user_email">用户邮箱</string>
+    <string name="user_model">用户负责模块</string>
+    <string name="apptheme">2B的生活，你懂吗</string>
+
+</resources>

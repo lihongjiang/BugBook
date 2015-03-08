@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gray">#bfc0c2</color>
+    <color name="orange">#CC6600</color>
+    <color name="pink">#FFE6E6</color>
+    <color name="yellow">#F99503</color>
+    <color name="blue">#00AED6</color>
+    <color name="white">#ffffff</color>
+    <color name="delete">#bcc0c4</color>
+    <color name="delete2">#a3a8ad</color>
+    <color name="ffba4d">#ffba4d</color>
+    <color name="ff7ba6">#ff7ba6</color>
+    <color name="ededed">#ededed</color>
+    <color name="ed3b76">#ed3b76</color>
+    <color name="e9eaef">#e9eaef</color>
+    <color name="red">#D80000</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <!-- 主题颜色 -->
+    <color name="app_color">#ff4e88</color>
+    <color name="app_color_pressed">#ed3b76</color>
+    <color name="line_color">#dddddd</color>
+    <color name="bg_page">#f3f4f8</color>
+    <color name="font_normal_color333333">#ff333333</color>
+    <color name="font_gray_color666666">#ff666666</color>
+    <color name="font_gray_colordddddd">#ffdddddd</color>
+    <color name="font_gray_color999999">#ff999999</color>
+
+    <!-- 标题栏组件 -->
+    <dimen name="title_bar_height">48dp</dimen>
+    <dimen name="title_bar_title_text_size">20sp</dimen>
+    <color name="title_bar_bg">@color/app_color</color>
+    <color name="title_bar_title_text_color">@android:color/white</color>
+
+</resources>

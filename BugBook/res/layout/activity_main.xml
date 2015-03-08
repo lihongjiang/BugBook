@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_page" >
+
+    <com.bslee.logtoolapk.widget.CommonHeader
+        android:id="@+id/commonHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@+id/buglist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:cacheColorHint="@null"
+        android:divider="@color/line_color"
+        android:dividerHeight="1dp"
+        android:listSelector="@drawable/bg_page_whitegray_selector" >
+    </ListView>
+
+</LinearLayout>
