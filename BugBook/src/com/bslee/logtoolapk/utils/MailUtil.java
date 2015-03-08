@@ -20,8 +20,8 @@ public class MailUtil {
 
 	static String from = "2B团队";
 
-	static String user = "lihongjiang421630@163.com";
-	static String password = "lhj628315abc";
+	static String user = "xxxxxx@163.com";
+	static String password = "xxxxxx";
 
 	public static void sendEmail(String email, String subject, String body)
 			throws UnsupportedEncodingException {
